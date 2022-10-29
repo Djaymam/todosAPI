@@ -1,0 +1,17 @@
+{
+  "name": "ps10",
+  "version": "1.0.0",
+  "description": "PS10 todos homework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jaylson Almeida",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.20.1",
+    "express": "^4.18.2",
+    "express-jsonschema": "^1.1.6",
+    "jsonschema": "^1.4.1"
+  }
+}
